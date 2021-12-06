@@ -2,10 +2,9 @@
 Arduino Hourglass with Led Matrix
 
 first of all, all credits to makers
+- Jörg Baumann http://arduino.joergeli.de/hourglass/hourglass.php
 - Fabrizio Branca https://github.com/fbrnc/Arduino_Hourglass
-
-- https://www.instructables.com/Hourglass-Using-Arduino/
-- https://www.instructables.com/member/EDISON+SCIENCE+CORNER/
+- EDISON SCIENCE CORNER https://www.instructables.com/Hourglass-Using-Arduino/
 
 many instruction exists for this circuit. I have tried to make it clear, first of all for myself ;-)
 
