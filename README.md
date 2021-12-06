@@ -1,4 +1,5 @@
 # HourGlass
+
 Arduino Hourglass with Led Matrix
 
 first of all, all credits to the main writer of this code
@@ -10,6 +11,7 @@ you can find also a complete descrition in german from
 - Jörg Baumann http://arduino.joergeli.de/hourglass/hourglass.php
 
 Many others description exists for this circuit. I have tried to make it clear, first of all for myself ;-)
+I have changed the angle sensor to a MPU6050.
 
 BOM : list of component
 - arduino nano ( arduino pro mini )
@@ -17,6 +19,7 @@ BOM : list of component
 - 1 MPU6050 accelerometer
 - 1 rotary encoder
 - 1 buzzer
+
 
 
 
